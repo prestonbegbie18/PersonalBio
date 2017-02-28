@@ -1,0 +1,23 @@
+body{
+  background-color: lightgrey;
+}
+
+table{
+  background-color: blue;
+  border-style: solid;
+}
+
+a.navigation{
+  color: white;
+}
+.nav-tab:hover{
+  background-color: red;
+}
+
+#intro{
+  font-family: "Courier New", Monospace;
+}
+
+div a{
+  color: red;
+}
